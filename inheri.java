@@ -1,3 +1,4 @@
+// SINGLE INHERITANCE TYPE
 class dad {
 	int money =100000;
 }
